@@ -16,7 +16,7 @@ The system consists of two main services:
    - WebSocket server for real-time Pi communication
    - Generates race strategies using Google Gemini AI
    - Sends control commands (brake bias, differential slip) back to Pi
-   - Web dashboard for monitoring
+   - Web dashboard for monitoring (** visit port 9000 after starting the server to view the dashboard)
 
 ## Quick Start
 
